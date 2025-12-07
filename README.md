@@ -1,5 +1,6 @@
 # 5003-group-project-backend-frontend-Group-G2-
 Hong Kong Airport Route Advisor - Group Project
+
 📋 Project Overview
 This is a data-driven web application for analyzing and predicting safety ratings and comfort levels of popular tourist flight routes departing from Hong Kong International Airport. The system integrates aviation safety data, weather information, and airline statistics to provide travelers with comprehensive ratings to help them choose better flights.
 
@@ -14,6 +15,7 @@ Weather impact evaluation
 Real-time data processing
 
 Interactive visualization
+
 
 Project Structure
 text
@@ -36,6 +38,7 @@ airroute-advisor/
 │   ├── style.css           # Modern styling with gradient effects
 │   └── app.js              # Frontend logic with dynamic data loading
 └── README.md               # This documentation file
+
 
 Data Export Process:
 Database Setup: MySQL database created using the provided schema.sql
